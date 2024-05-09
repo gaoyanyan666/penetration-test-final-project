@@ -22,3 +22,7 @@ Tools:
 useful resources:
 https://book.hacktricks.xyz/
 https://gtfobins.github.io/
+
+
+report editor:
+https://github.com/Syslifters/sysreptor
